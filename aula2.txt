@@ -1,0 +1,5 @@
+usamos "dotnet new console --name NomeDoProjeto --use-program-main" pra criar um projeto já com uma main. Usamos isso para falar que o código começa na main e vai ser rodado no terminal. 
+
+Para criar em e-commerce (solution - o todo) eu preciso de um app, uma aplicação web, uma API (conversa com o banco de dados) e um banco de dados. 
+
+Primeiro cria a pasta que vai conter a solução. Depois cria dentro dessa pasta uma novo projeto (new console). Depois disso linkamos a solution com o projeto usando o comando "dotnet sln add nomedoprojeto" dentro da pasta da solução, não da pasta do projeto. 

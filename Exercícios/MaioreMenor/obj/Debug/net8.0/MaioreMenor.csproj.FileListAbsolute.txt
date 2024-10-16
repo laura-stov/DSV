@@ -1,0 +1,14 @@
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\MaioreMenor\bin\Debug\net8.0\MaioreMenor.exe
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\MaioreMenor\bin\Debug\net8.0\MaioreMenor.deps.json
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\MaioreMenor\bin\Debug\net8.0\MaioreMenor.runtimeconfig.json
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\MaioreMenor\bin\Debug\net8.0\MaioreMenor.dll
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\MaioreMenor\bin\Debug\net8.0\MaioreMenor.pdb
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\MaioreMenor\obj\Debug\net8.0\MaioreMenor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\MaioreMenor\obj\Debug\net8.0\MaioreMenor.AssemblyInfoInputs.cache
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\MaioreMenor\obj\Debug\net8.0\MaioreMenor.AssemblyInfo.cs
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\MaioreMenor\obj\Debug\net8.0\MaioreMenor.csproj.CoreCompileInputs.cache
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\MaioreMenor\obj\Debug\net8.0\MaioreMenor.dll
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\MaioreMenor\obj\Debug\net8.0\refint\MaioreMenor.dll
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\MaioreMenor\obj\Debug\net8.0\MaioreMenor.pdb
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\MaioreMenor\obj\Debug\net8.0\MaioreMenor.genruntimeconfig.cache
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\MaioreMenor\obj\Debug\net8.0\ref\MaioreMenor.dll

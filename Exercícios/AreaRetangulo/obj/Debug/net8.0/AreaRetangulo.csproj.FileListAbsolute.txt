@@ -1,0 +1,14 @@
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\AreaRetangulo\obj\Debug\net8.0\AreaRetangulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\AreaRetangulo\obj\Debug\net8.0\AreaRetangulo.AssemblyInfoInputs.cache
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\AreaRetangulo\obj\Debug\net8.0\AreaRetangulo.AssemblyInfo.cs
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\AreaRetangulo\obj\Debug\net8.0\AreaRetangulo.csproj.CoreCompileInputs.cache
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\AreaRetangulo\bin\Debug\net8.0\AreaRetangulo.exe
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\AreaRetangulo\bin\Debug\net8.0\AreaRetangulo.deps.json
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\AreaRetangulo\bin\Debug\net8.0\AreaRetangulo.runtimeconfig.json
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\AreaRetangulo\bin\Debug\net8.0\AreaRetangulo.dll
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\AreaRetangulo\bin\Debug\net8.0\AreaRetangulo.pdb
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\AreaRetangulo\obj\Debug\net8.0\AreaRetangulo.dll
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\AreaRetangulo\obj\Debug\net8.0\refint\AreaRetangulo.dll
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\AreaRetangulo\obj\Debug\net8.0\AreaRetangulo.pdb
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\AreaRetangulo\obj\Debug\net8.0\AreaRetangulo.genruntimeconfig.cache
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\AreaRetangulo\obj\Debug\net8.0\ref\AreaRetangulo.dll

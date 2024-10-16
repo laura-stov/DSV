@@ -1,0 +1,14 @@
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\Idade\obj\Debug\net8.0\Idade.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\Idade\obj\Debug\net8.0\Idade.AssemblyInfoInputs.cache
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\Idade\obj\Debug\net8.0\Idade.AssemblyInfo.cs
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\Idade\obj\Debug\net8.0\Idade.csproj.CoreCompileInputs.cache
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\Idade\bin\Debug\net8.0\Idade.exe
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\Idade\bin\Debug\net8.0\Idade.deps.json
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\Idade\bin\Debug\net8.0\Idade.runtimeconfig.json
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\Idade\bin\Debug\net8.0\Idade.dll
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\Idade\bin\Debug\net8.0\Idade.pdb
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\Idade\obj\Debug\net8.0\Idade.dll
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\Idade\obj\Debug\net8.0\refint\Idade.dll
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\Idade\obj\Debug\net8.0\Idade.pdb
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\Idade\obj\Debug\net8.0\Idade.genruntimeconfig.cache
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\Idade\obj\Debug\net8.0\ref\Idade.dll

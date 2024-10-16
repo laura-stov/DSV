@@ -1,0 +1,5 @@
+Antigamente as aplicações eram estáticas, ou seja, para atualizar uma página tinha que apagar a página antiga onde estava hospedada e colocavar o novo, porém, também tinha que atualizar o código fonte.
+
+Depois, as aplicações se transformaram em dinâmica por conta da criação de novas linguagens que permitiam que isso acontecesse. Exemplos dessas linguagens seriam PHP e Java. Nesse caso o servidor é o servidor web, e o datacenter é onde ocorre a hospedagem. 
+
+Por ultimo temos aplicações nanana, que envolvem servidores web e mobiles. A mesma aplicação tem que informar tanto no navegador quanto no celular.

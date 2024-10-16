@@ -1,0 +1,14 @@
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\Fibonacci\obj\Debug\net8.0\Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\Fibonacci\obj\Debug\net8.0\Fibonacci.AssemblyInfoInputs.cache
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\Fibonacci\obj\Debug\net8.0\Fibonacci.AssemblyInfo.cs
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\Fibonacci\obj\Debug\net8.0\Fibonacci.csproj.CoreCompileInputs.cache
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\Fibonacci\bin\Debug\net8.0\Fibonacci.exe
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\Fibonacci\bin\Debug\net8.0\Fibonacci.deps.json
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\Fibonacci\bin\Debug\net8.0\Fibonacci.runtimeconfig.json
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\Fibonacci\bin\Debug\net8.0\Fibonacci.dll
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\Fibonacci\bin\Debug\net8.0\Fibonacci.pdb
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\Fibonacci\obj\Debug\net8.0\Fibonacci.dll
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\Fibonacci\obj\Debug\net8.0\refint\Fibonacci.dll
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\Fibonacci\obj\Debug\net8.0\Fibonacci.pdb
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\Fibonacci\obj\Debug\net8.0\Fibonacci.genruntimeconfig.cache
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Exercícios\Fibonacci\obj\Debug\net8.0\ref\Fibonacci.dll

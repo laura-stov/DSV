@@ -1,0 +1,14 @@
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Orientação a Objetos\orientacaoObjetos\obj\Debug\net8.0\orientacaoObjetos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Orientação a Objetos\orientacaoObjetos\obj\Debug\net8.0\orientacaoObjetos.AssemblyInfoInputs.cache
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Orientação a Objetos\orientacaoObjetos\obj\Debug\net8.0\orientacaoObjetos.AssemblyInfo.cs
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Orientação a Objetos\orientacaoObjetos\obj\Debug\net8.0\orientacaoObjetos.csproj.CoreCompileInputs.cache
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Orientação a Objetos\orientacaoObjetos\bin\Debug\net8.0\orientacaoObjetos.exe
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Orientação a Objetos\orientacaoObjetos\bin\Debug\net8.0\orientacaoObjetos.deps.json
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Orientação a Objetos\orientacaoObjetos\bin\Debug\net8.0\orientacaoObjetos.runtimeconfig.json
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Orientação a Objetos\orientacaoObjetos\bin\Debug\net8.0\orientacaoObjetos.dll
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Orientação a Objetos\orientacaoObjetos\bin\Debug\net8.0\orientacaoObjetos.pdb
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Orientação a Objetos\orientacaoObjetos\obj\Debug\net8.0\orientacaoObjetos.dll
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Orientação a Objetos\orientacaoObjetos\obj\Debug\net8.0\refint\orientacaoObjetos.dll
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Orientação a Objetos\orientacaoObjetos\obj\Debug\net8.0\orientacaoObjetos.pdb
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Orientação a Objetos\orientacaoObjetos\obj\Debug\net8.0\orientacaoObjetos.genruntimeconfig.cache
+D:\Dados do Usuário\Desktop\Ciência da Computação\4° Semestre\Desenvolvimento de Software Visual\Orientação a Objetos\orientacaoObjetos\obj\Debug\net8.0\ref\orientacaoObjetos.dll
