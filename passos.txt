@@ -1,4 +1,4 @@
-passos para fazer o projeto
+PASSOS PARA CRIAR UM PROJETO EM C#
 1 - criar uma solução
 dotnet new sln --output API
 2 - criar um projeto web (entrar na solução para criar o projeto)
@@ -25,7 +25,7 @@ rodar os comandos da migração para criar o banco de dados
 
 obs: lembrar de dar um espaço depois de Content-Type: application/json
 
-passos para comitar no git
+PASSOS PARA DAR COMMIT NO GITHUB
 criar uma pasta com o nome projeto 
 shift + botao direito nessa pasta criada para entrar no powershell 
 git clone link do repositorio
@@ -36,3 +36,10 @@ git add .
 git status
 git commit -m "mensagem commit"
 git push
+
+PASSOS PARA CRIAR UM PROJETO COM REACT
+1- npx create-react-app nomeProjeto(front) --template typescript
+2- npm install -g npm (caso haja problema com npm)
+3- npm i (instalar dependências)
+4- npm start (rodar)
+5- 
