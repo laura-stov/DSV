@@ -42,4 +42,6 @@ PASSOS PARA CRIAR UM PROJETO COM REACT
 2- npm install -g npm (caso haja problema com npm)
 3- npm i (instalar dependências)
 4- npm start (rodar)
-5- 
+5- apagar arquivos desnecessários em src (ver notion) e deixar só o index.html em public
+6- criar componentes com final .tsx e começa sempre com letra maiúscula (LivroListar.tsx)
+7- rodar API junto
