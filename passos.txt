@@ -45,3 +45,20 @@ PASSOS PARA CRIAR UM PROJETO COM REACT
 5- apagar arquivos desnecessários em src (ver notion) e deixar só o index.html em public
 6- criar componentes com final .tsx e começa sempre com letra maiúscula (LivroListar.tsx)
 7- rodar API junto
+
+API
+
+Para rodar: dotnet run
+
+React
+
+Abra o terminal na pasta do projeto react (my-app) e digite os seguintes comando:
+
+1. npm install react-router-dom
+2. npm install --save-dev @types/react-router-dom
+3. npm install axios @types/axios
+
+Para rodar:
+
+Garanta que o servidor backend está ativo (api com c#)
+No terminal, execute: npm start
